@@ -1,0 +1,4 @@
+spacy
+collections
+newspaper
+pprint

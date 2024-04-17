@@ -1,3 +1,4 @@
+newspaper3k
 from spacy import displacy
 from collections import Counter
 from newspaper import Article
